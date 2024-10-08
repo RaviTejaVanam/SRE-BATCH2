@@ -9,6 +9,10 @@ public class MyCalculator {
 	 {
 		 return a-b;
 	 }
+	 public int Gourimul(int a, int b)
+	 {
+		 return a*b;
+	 }
 
 	public static void main(String[] args) {
 		
